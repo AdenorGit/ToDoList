@@ -1,0 +1,19 @@
+{
+    "name": "adenor/to-do-list",
+    "description": "Projeto To Do List",
+    "type": "project",
+    "autoload": {
+        "psr-4": {
+            "App\\": "App/"
+        }
+    },
+    "authors": [
+        {
+            "name": "AdenorGit",
+            "email": "adenor@gmail.com"
+        }
+    ],
+    "require": {
+        "pecee/simple-router": "dev-master"
+    }
+}
